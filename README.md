@@ -4,11 +4,13 @@
 
 
 
-- ✍ A team of: [Hanoi Open University](https://hou.edu.vn)(HOU).
+- ✍ University: [Hanoi Open University](https://hou.edu.vn)(HOU).
 
-- 🌱 Learn and develop new technologies together.
+- 🌱 Learn and develop new technologies.
 
-- 🔥 There are 5 members
+- 🔥 Target: Fullstack developer.
+
+- 🔗 FB: [DungNguyen](https://www.facebook.com/profile.php?id=100010166209500).
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
