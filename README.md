@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-  <img src="../profile/overview.svg" width="1200" alt="dung-fithou" />
+  <img src="./profile/overview.svg" width="1200" alt="dung-fithou" />
 </a>
 
 
