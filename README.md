@@ -14,7 +14,6 @@
 
 - 🔗 FB: [DungNguyen](https://www.facebook.com/profile.php?id=100010166209500)
 
-- 🔗 Organizations: [Openuniland](https://github.com/openuniland)(Revise).
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
